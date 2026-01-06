@@ -112,10 +112,4 @@ Provides an instant snapshot of overall ad performance.
 
 ---
 
-## 📬 Connect
 
-If you’d like to discuss this project or explore collaboration opportunities, feel free to connect with me on LinkedIn.
-
----
-
-⭐ *If you found this project insightful, don’t forget to star the repository!*
