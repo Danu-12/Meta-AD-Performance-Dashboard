@@ -1,4 +1,4 @@
-# Meta Ads Performance Analytics Dashboard
+# Meta Ads Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze and optimize Meta (Facebook & Instagram) advertising performance by tracking impressions, engagement, campaign effectiveness, and audience segmentation.
 
