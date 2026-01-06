@@ -104,9 +104,9 @@ Provides an instant snapshot of overall ad performance.
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/Danu-12/Meta-AD-Performance-Dashboard/blob/main/Meta%20AD%20Performace%20Dashboard.jpg)
 
 
 
