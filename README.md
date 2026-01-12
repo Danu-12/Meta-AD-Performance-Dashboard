@@ -106,7 +106,7 @@ Provides an instant snapshot of overall ad performance.
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/Danu-12/Meta-AD-Performance-Dashboard/blob/main/Meta%20AD%20Performace%20Dashboard.jpg)
+![Dashboard Preview](https://github.com/Danu-12/Meta-AD-Performance-Dashboard/blob/main/Meta%20AD%20Performance%20Dashboard.gif)
 
 
 
