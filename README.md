@@ -1,12 +1,39 @@
 # Meta Ads Performance Dashboard
 
-An interactive Power BI dashboard designed to analyze and optimize Meta (Facebook & Instagram) advertising performance by tracking impressions, engagement, campaign effectiveness, and audience segmentation.
+Running paid advertising campaigns on platforms like Facebook and Instagram has become increasingly competitive and expensive. Marketing teams must ensure that their ad spend reaches the right audience segments, drives meaningful engagement, and ultimately leads to conversions such as clicks, purchases, or sign-ups.
+
+However, with multiple campaigns, ad formats, and audience segments running simultaneously, it becomes difficult for marketing teams to quickly identify which campaigns are actually driving performance and which are wasting budget.
 
 ---
 
 ## Project Overview
 
-The **Meta Ads Performance Dashboard** is an analytical Power BI report built to evaluate digital marketing campaign performance on Meta platforms. It helps marketers and analysts monitor ad reach, engagement, and campaign efficiency, enabling data-driven decisions to improve ROI and targeting strategies.
+This project **analyzes 80K+ advertising performance records** to build a marketing performance dashboard designed for marketing teams and growth teams. The dashboard helps evaluate campaign effectiveness and identify the audiences and campaign strategies that deliver the best results.
+
+The analysis focuses on three **North Star metrics** that reflect the effectiveness of online advertising campaigns:
+  1. **Engagement Rate**
+  2. **Click-Through Rate (CTR)**
+  3. **Conversion Rate**
+
+Along with these North Star metrics, the dashboard tracks supporting metrics such as impressions, Clicks, Likes, Shares, Comments and purchases to evaluate the performance of campaigns across the marketing funnel.
+
+To uncover deeper insights, campaign performance is analyzed across multiple dimensions including:       
+  * **User demographics (Age, Gender, Gender)**
+  * **Ad formats**
+  * **Time of day**
+
+By combining these metrics and dimensions into a structured performance view, the dashboard enables marketing teams to:
+  * Identify high-performing audience segments
+  * Compare campaign performance
+  * Detect underperforming ads
+  * Make data-driven decisions to optimize ad spend and improve campaign effectiveness
+
+**This dashboard helps marketing teams answer questions such as:**
+
+  * Which campaigns generate the highest CTR and conversions?
+  * Which audience demographics engage the most with ads?
+  * Which ad formats drive better engagement and purchases?
+  * What time of day delivers the best campaign performance?
 
 ---
 ##  Data Structure
