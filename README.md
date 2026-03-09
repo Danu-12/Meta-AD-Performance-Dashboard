@@ -4,12 +4,20 @@ An interactive Power BI dashboard designed to analyze and optimize Meta (Faceboo
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The **Meta Ads Performance Dashboard** is an analytical Power BI report built to evaluate digital marketing campaign performance on Meta platforms. It helps marketers and analysts monitor ad reach, engagement, and campaign efficiency, enabling data-driven decisions to improve ROI and targeting strategies.
 
 ---
+##  Data Structure
 
+![Data_Structure](https://i.postimg.cc/4NzW4DLk/datastr.png)
+
+
+
+
+
+---
 ## 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
