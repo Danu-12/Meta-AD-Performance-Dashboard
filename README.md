@@ -17,7 +17,7 @@ The analysis focuses on three **North Star metrics** that reflect the effectiven
 
 Along with these North Star metrics, the dashboard tracks supporting metrics such as impressions, Clicks, Likes, Shares, Comments and purchases to evaluate the performance of campaigns across the marketing funnel.
 
-To uncover deeper insights, campaign performance is analyzed across multiple dimensions including:       
+To uncover deeper insights, campaign performance is analyzed across multiple dimensions including:     
   * **User demographics (Age, Gender, Gender)**
   * **Ad formats**
   * **Time of day**
@@ -39,10 +39,6 @@ By combining these metrics and dimensions into a structured performance view, th
 ##  Data Structure
 
 ![Data_Structure](https://i.postimg.cc/4NzW4DLk/datastr.png)
-
-
-
-
 
 ---
 ## 🛠️ Tech Stack
@@ -86,16 +82,6 @@ Raw data exports from Meta Ads Manager are difficult to analyze quickly and do n
 
 ---
 
-### 🎯 Goal of the Dashboard
-
-To deliver an interactive and intuitive analytics solution that:
-
-* Tracks Meta ad performance using key KPIs
-* Enables quick comparison of campaigns
-* Supports better targeting and budget allocation decisions
-* Automates reporting to save time and effort
-
----
 
 ### 📊 Walkthrough of Key Visuals
 
