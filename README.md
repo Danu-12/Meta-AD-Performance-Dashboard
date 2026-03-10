@@ -5,6 +5,13 @@ Running paid advertising campaigns on platforms like Facebook and Instagram has 
 However, with multiple campaigns, ad formats, and audience segments running simultaneously, it becomes difficult for marketing teams to quickly identify which campaigns are actually driving performance and which are wasting budget.
 
 ---
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Structure](#data-structure)
+3. [Executive Summary](#executive-summary)
+  
+---
 
 ## Project Overview
 
