@@ -60,6 +60,8 @@ Among creative formats, **Story ads generate the highest impressions and convers
 
 ![Eng by gender](https://i.postimg.cc/6q77qL9P/age.png)   ![Eng by gender](https://i.postimg.cc/nzWzyj4x/of-gender-eng.png)
 
+---
+
 ### AD Format performance
   * **Image and video ads** are most effective at capturing user attention and driving interaction as they generate the **highest engagement and click-through rates.**
   * **Story ads** deliver the **highest impressions, clicks, and conversion rate**, likely because they appear in a full-screen format between user stories, which captures more user attention and encourages quicker interaction.
@@ -70,6 +72,19 @@ Among creative formats, **Story ads generate the highest impressions and convers
 ![ad_type](https://i.postimg.cc/RZvg6NHs/ad-type.png) 
 
 ---
+### Geographic Performance
+  * **The United States, United Kingdom, and Canada** generate the highest engagement levels, indicating strong campaign reach and audience interaction in these regions. These markets appear to be effective for driving visibility and traffic to the platform.
+  
+  * However, **Japan and Mexico** record the highest conversion rates, suggesting stronger purchase intent among users who engage with ads. While engagement volume may be lower in these markets, users who interact with campaigns are more likely to complete purchases.
+
+        High Engagement Market → Good for Traffic
+        High Conversion Market → Good for Sales
+    
+
+        Traffic markets → optimize conversion
+        Sales markets → increase reach
+---
+
 ## 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
