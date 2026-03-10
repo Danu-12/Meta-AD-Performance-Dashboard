@@ -8,17 +8,10 @@ However, with multiple campaigns, ad formats, and audience segments running simu
 
 ## Project Overview
 
-This project **analyzes 80K+ advertising performance records** to build a marketing performance dashboard designed for marketing teams and growth teams. The dashboard helps evaluate campaign effectiveness and identify the audiences and campaign strategies that deliver the best results.
-
-The analysis focuses on three **North Star metrics** that reflect the effectiveness of online advertising campaigns:
-  1. **Engagement Rate**
-  2. **Click-Through Rate (CTR)**
-  3. **Conversion Rate**
-
-Along with these North Star metrics, the dashboard tracks supporting metrics such as impressions, Clicks, Likes, Shares, Comments and purchases to evaluate the performance of campaigns across the marketing funnel.
+This project analyzes over 80,000 Meta advertising performance records to evaluate the effectiveness of paid campaigns across key marketing funnel stages—engagement, clicks, and conversions. The analysis focuses on three **North Star metrics: Engagement Rate, Click-Through Rate (CTR), and Conversion Rate**, supported by additional metrics such as impressions, clicks, likes, shares, comments, and purchases.
 
 To uncover deeper insights, campaign performance is analyzed across multiple dimensions including:     
-  * **User demographics (Age, Gender, Gender)**
+  * **User demographics (Age, Gender)**
   * **Ad formats**
   * **Time of day**
 
