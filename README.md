@@ -60,7 +60,14 @@ Among creative formats, **Story ads generate the highest impressions and convers
 
 ![Eng by gender](https://i.postimg.cc/6q77qL9P/age.png)   ![Eng by gender](https://i.postimg.cc/nzWzyj4x/of-gender-eng.png)
 
+### AD Format performance
+  * **Image and video ads** are most effective at capturing user attention and driving interaction as they generate the **highest engagement and click-through rates.**
+  * **Story ads** deliver the **highest impressions, clicks, and conversion rate**, likely because they appear in a full-screen format between user stories, which captures more user attention and encourages quicker interaction.
+  * **Carousel ads** record the **second-highest conversion rate**, suggesting that showing multiple visuals in a single ad helps users understand the product better and increases the likelihood of purchase.
+    
+        More visuals → better product understanding → higher chance of buying
 
+![ad_type](https://i.postimg.cc/RZvg6NHs/ad-type.png) 
 
 ---
 ## 🛠️ Tech Stack
