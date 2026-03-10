@@ -34,6 +34,17 @@ By combining these metrics and dimensions into a structured performance view, th
 ![Data_Structure](https://i.postimg.cc/4NzW4DLk/datastr.png)
 
 ---
+## Executive Summary
+
+Campaign performance shows **strong top-of-funnel engagement**, with an **Engagement Rate of 13.56%** and a** CTR of 11.76%**, indicating ad creatives are highly effective at capturing user attention & driving clicks. The overall **Purchase Rate remains low at 0.61%** of impressions, revealing a drop-off in the lower stage of the conversion funnel. 
+
+Audience behavior highlights **young adults (20–30 age group) as  most responsive segmen**t, with engagement declining noticeably among audiences aged 35 and above. **Female audiences consistently show higher engagement** than males, indicating stronger resonance with this demographic.
+
+Regionally, **India and the United States demonstrate strong engagement and reach,** while Germany and the United Kingdom show relatively stronger conversion potential, likely driven by higher purchasing power.
+
+Among creative formats, **Story ads generate the highest impressions and conversion**, while Images and Videos higher enegaement and CTR, suggesting that multi-visual ad formats may be more effective in encouraging purchase decisions.
+
+---
 ## 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
