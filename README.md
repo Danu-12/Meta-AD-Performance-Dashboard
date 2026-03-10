@@ -54,10 +54,11 @@ Regionally, **India and the United States demonstrate strong engagement and reac
 Among creative formats, **Story ads generate the highest impressions and conversion**, while Images and Videos higher enegaement and CTR, suggesting that multi-visual ad formats may be more effective in encouraging purchase decisions.
 
 ---
-# Audience Insights
+### Audience Insights
   * Female users account for approx. 64% of total engagement, while male users contribute around 34%, indicating that campaigns resonate more strongly with female audiences.
   * The audience of 20–30 age group generates the highest interaction levels, with particularly strong engagement among users in their early twenties, while engagement drops noticeably for audiences aged 35 and above. The pattern shows that young adults represent the primary audience segment driving engagement for the campaigns.
 
+![Eng by gender](https://i.postimg.cc/6q77qL9P/age.png)   ![Eng by gender](https://i.postimg.cc/nzWzyj4x/of-gender-eng.png)
 
 
 
