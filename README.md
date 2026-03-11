@@ -56,10 +56,15 @@ Among creative formats, **Story ads generate the highest impressions and convers
 ---
 ###  Campaign Performance
 
+**High Engagemnt and CTR Campaigns (12 and 45)**
+  * Campaign 12 records the highest engagement and CTR (18% and 13%) but a relatively low conversion rate of 3%, indicating that while the ads successfully capture user attention, they struggle to convert that interest into purchases.
+  
+  * In contrast, Campaign 45 shows lower engagement and CTR (16% and 11%) but achieves a higher conversion rate of 5%, suggesting that although fewer users interact with the ads, those who do are more likely to complete a purchase. 
+  
+  * Overall, this indicates that Campaign 12 is effective at driving engagement and traffic, while Campaign 45 performs better in converting interested users into buyers.
 
 
-
-![Campign trend](https://i.postimg.cc/63SwRYFb/Campign-Trend.png)  
+![Campign trend](https://i.postimg.cc/ZYgcC2K2/Campign-Trend.png)  
 
 ---
 ### Audience Insights
