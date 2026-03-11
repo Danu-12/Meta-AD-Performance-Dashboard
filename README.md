@@ -54,22 +54,19 @@ Regionally, **India and the United States demonstrate strong engagement and reac
 Among creative formats, **Story ads generate the highest impressions and conversion**, while Images and Videos higher enegaement and CTR, suggesting that multi-visual ad formats may be more effective in encouraging purchase decisions.
 
 ---
+###  Campaign Performance
+
+
+
+
+![Campign trend](https://i.postimg.cc/63SwRYFb/Campign-Trend.png)  
+
+---
 ### Audience Insights
   * Female users account for approx. 64% of total engagement, while male users contribute around 34%, indicating that campaigns resonate more strongly with female audiences.
   * The audience of 20–30 age group generates the highest interaction levels, with particularly strong engagement among users in their early twenties, while engagement drops noticeably for audiences aged 35 and above. The pattern shows that young adults represent the primary audience segment driving engagement for the campaigns.
 
 ![Eng by gender](https://i.postimg.cc/6q77qL9P/age.png)   ![Eng by gender](https://i.postimg.cc/nzWzyj4x/of-gender-eng.png)
-
----
-
-### AD Format performance
-  * **Image and video ads** are most effective at capturing user attention and driving interaction as they generate the **highest engagement and click-through rates.**
-  * **Story ads** deliver the **highest impressions, clicks, and conversion rate**, likely because they appear in a full-screen format between user stories, which captures more user attention and encourages quicker interaction.
-  * **Carousel ads** record the **second-highest conversion rate**, suggesting that showing multiple visuals in a single ad helps users understand the product better and increases the likelihood of purchase.
-    
-        More visuals → better product understanding → higher chance of buying
-
-![ad_type](https://i.postimg.cc/RZvg6NHs/ad-type.png) 
 
 ---
 ### Geographic Performance
@@ -83,6 +80,21 @@ Among creative formats, **Story ads generate the highest impressions and convers
 
         Traffic markets → optimize conversion
         Sales markets → increase reach
+
+![Geo Perf](https://i.postimg.cc/9FgP9Tfw/country.png) 
+
+---
+
+### AD Format performance
+  * **Image and video ads** are most effective at capturing user attention and driving interaction as they generate the **highest engagement and click-through rates.**
+  * **Story ads** deliver the **highest impressions, clicks, and conversion rate**, likely because they appear in a full-screen format between user stories, which captures more user attention and encourages quicker interaction.
+  * **Carousel ads** record the **second-highest conversion rate**, suggesting that showing multiple visuals in a single ad helps users understand the product better and increases the likelihood of purchase.
+    
+        More visuals → better product understanding → higher chance of buying
+
+![ad_type](https://i.postimg.cc/RZvg6NHs/ad-type.png) 
+
+
 ---
 
 ## 🛠️ Tech Stack
