@@ -76,6 +76,10 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 * In contrast, Campaign 45 focuses on female audiences with interests in health, sports, gaming, and technology, using both image and story formats across Instagram and Facebook. While this strategy generates slightly lower interaction, the higher conversion rate suggests stronger alignment between the ad messaging, product offering, and audience needs, leading to higher purchase intent among users who click the ads.
 
+[![High-eng.png](https://i.postimg.cc/D0qv95jH/High-eng.png)](https://postimg.cc/2LSNvdf7)
+
+
+--- 
 
 **High vs Low Conversion Campaign Performance**
 
@@ -99,6 +103,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
         
         Campaign 36 → Broader targeting + lower converting formats → Low conversion
 
+[![high-cr.png](https://i.postimg.cc/qq8JPQbb/high-cr.png)](https://postimg.cc/V0kPM9cn)
 
 ---
 ### Audience Insights
@@ -148,75 +153,6 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-## 📂 Data Source
-
-**Source:** Meta Ads Manager (Exported / Simulated Campaign Data)
-
-The dataset includes structured advertising performance data such as:
-
-* Campaign and Ad IDs
-* Impressions and Reach
-* Engagement metrics (clicks, likes, interactions)
-* Audience segmentation attributes
-* Time-based performance indicators
-
-All data was cleaned and optimized using Power Query before visualization.
-
----
-
-## 🚀 Features & Highlights
-
-### 🔍 Business Problem
-
-Raw data exports from Meta Ads Manager are difficult to analyze quickly and do not provide clear insights for decision-making. Marketing teams often face challenges in:
-
-* Identifying high- vs low-performing campaigns
-* Understanding audience engagement behavior
-* Tracking campaign trends over time
-* Reducing repetitive manual reporting
-
----
-
-
-### 📊 Walkthrough of Key Visuals
-
-**Key KPI Section (Top Panel):**
-
-* Total Impressions
-* Total Engagements
-* Engagement Rate
-* Number of Active Campaigns
-* Average Performance Metrics
-
-Provides an instant snapshot of overall ad performance.
-
-**Campaign Performance Comparison (Bar / Column Charts):**
-
-* Visual comparison of impressions and engagement across campaigns
-* Helps identify top-performing and underperforming ads
-
-**Time-Based Trend Analysis (Line Charts):**
-
-* Shows impressions and engagement trends over time
-* Useful for spotting spikes, drops, and campaign effectiveness
-
-**Audience & Segmentation Insights:**
-
-* Engagement breakdown by audience segments
-* Helps identify which audience groups respond best to ads
-
-**Engagement Distribution Analysis:**
-
-* Highlights campaigns or creatives driving maximum user interaction
-
----
-
-### 📈 Business Impact & Insights
-
-* **Campaign Optimization:** Faster identification of high-performing ads enables continuous optimization
-* **Time Efficiency:** Automated reporting reduced manual analysis effort by approximately **40%**
-* **Improved Targeting:** Audience insights support more precise marketing strategies
-* **Data-Driven Decisions:** Stakeholders can make informed decisions on budget allocation and campaign scaling
 
 ---
 
