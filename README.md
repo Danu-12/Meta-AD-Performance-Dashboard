@@ -5,11 +5,21 @@ Running paid advertising campaigns on platforms like Facebook and Instagram has 
 However, with multiple campaigns, ad formats, and audience segments running simultaneously, it becomes difficult for marketing teams to quickly identify which campaigns are actually driving performance and which are wasting budget.
 
 ---
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Data Structure](#data-structure)
 3. [Executive Summary](#executive-summary)
+4. [Insights Deep-Dive](#insights-deep-dive)
+   - [Campaign Performance](#campaign-performance)
+     - [Engagement & CTR Performance](#engagement--ctr-performance)
+     - [High vs Low Conversion Campaign Performance](#high-vs-low-conversion-campaign-performance)
+   - [Geographic Performance](#geographic-performance)
+   - [Ad Format Performance](#ad-format-performance)
+5. [Recommendations](#recommendations)
+6. [Tech Stack](#tech-stack)
+7. [Dashboard Preview](#dashboard-preview)
   
 ---
 
@@ -54,11 +64,15 @@ Regionally, **India and the United States demonstrate strong engagement and reac
 Among creative formats, **Story ads generate the highest impressions and conversion**, while Images and Videos higher enegaement and CTR, suggesting that multi-visual ad formats may be more effective in encouraging purchase decisions.
 
 ---
-###  Campaign Performance
+## Insights Deep-Dive
+---
+
+##  Campaign Performance
 
 ![Campign trend](https://i.postimg.cc/ZYgcC2K2/Campign-Trend.png)  
 
-**1. Engagement & CTR Performance**
+
+### Engagement & CTR Performance
 
 **Key Findings**
   * Campaign 12 stands out as the strongest traffic driver, achieving the highest engagement (18%) and CTR (13%) among all campaigns. This shows that the creatives and targeting are effective in attracting user attention and encouraging clicks. However,despite generating strong interaction, the campaign delivers a modest conversion rate of 3%, suggesting high engagemnt is not converting into purchases.
@@ -81,7 +95,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 --- 
 
-**High vs Low Conversion Campaign Performance**
+## High vs Low Conversion Campaign Performance
 
 **Key Findings**
 * Campaign 27 emerges as the most effective campaign in driving purchases, achieving a conversion rate of 9% and a purchase rate of 1%. These metrics shows that a significant proportion of users who interact with the ads proceed to complete a purchase.
@@ -138,10 +152,13 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 ![ad_type](https://i.postimg.cc/RZvg6NHs/ad-type.png) 
 
+---
+## Recommendations
+
+
 
 ---
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
