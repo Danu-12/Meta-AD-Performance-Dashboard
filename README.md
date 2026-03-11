@@ -67,6 +67,15 @@ Among creative formats, **Story ads generate the highest impressions and convers
 ![Campign trend](https://i.postimg.cc/ZYgcC2K2/Campign-Trend.png)  
 
 ---
+Drilldown Analysis: Factors Driving Campaign Performance
+
+Further analysis reveals that Campaign 12 relies primarily on Facebook Story ads and targets male audiences with interests in photography, gaming, and sports. These interests are highly engaging, which explains the strong engagement and CTR. However, the age targeting may not fully align with purchasing behavior.   
+For instance, photography is targeted at the 18–24 age group, which may have lower purchasing power for expensive equipment, while gaming and sports are targeted at 35–44, which may be slightly older than the most active audience for these interests. This mismatch may explain the lower conversion performance.
+
+In comparison, Campaign 45 targets female audiences with interests in health, sports, gaming, and technology using both image and story formats across Instagram and Facebook. While this approach generates lower engagement, the higher conversion rate suggests that the product offering aligns well with the needs and preferences of this audience segment, leading to stronger purchase intent among users who interact with the campaign.
+
+
+---
 ### Audience Insights
   * Female users account for approx. 64% of total engagement, while male users contribute around 34%, indicating that campaigns resonate more strongly with female audiences.
   * The audience of 20–30 age group generates the highest interaction levels, with particularly strong engagement among users in their early twenties, while engagement drops noticeably for audiences aged 35 and above. The pattern shows that young adults represent the primary audience segment driving engagement for the campaigns.
