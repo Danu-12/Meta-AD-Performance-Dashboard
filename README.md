@@ -56,23 +56,44 @@ Among creative formats, **Story ads generate the highest impressions and convers
 ---
 ###  Campaign Performance
 
-**High Engagemnt and CTR Campaigns (12 and 45)**
-  * Campaign 12 records the highest engagement and CTR (18% and 13%) but a relatively low conversion rate of 3%, indicating that while the ads successfully capture user attention, they struggle to convert that interest into purchases.
-  
-  * In contrast, Campaign 45 shows lower engagement and CTR (16% and 11%) but achieves a higher conversion rate of 5%, suggesting that although fewer users interact with the ads, those who do are more likely to complete a purchase. 
-  
-  * Overall, this indicates that Campaign 12 is effective at driving engagement and traffic, while Campaign 45 performs better in converting interested users into buyers.
-
-
 ![Campign trend](https://i.postimg.cc/ZYgcC2K2/Campign-Trend.png)  
+
+**1. Engagement & CTR Performance**
+
+**Key Findings**
+  * Campaign 12 stands out as the strongest traffic driver, achieving the highest engagement (18%) and CTR (13%) among all campaigns. This shows that the creatives and targeting are effective in attracting user attention and encouraging clicks. However,despite generating strong interaction, the campaign delivers a modest conversion rate of 3%, suggesting high engagemnt is not converting into purchases.
+    
+  * In contrast, Campaign 45 shows lower engagement and CTR (16% and 11%) but achieves a higher conversion rate of 5%, suggesting that although fewer users interact with the ads, those who do are more likely to complete a purchase.
+  * 
+* This indicates that Campaign 12 is effective at driving engagement and traffic, while Campaign 45 performs better in converting interested users into buyers.
 
 ---
 Drilldown Analysis: Factors Driving Campaign Performance
 
-Further analysis reveals that Campaign 12 relies primarily on Facebook Story ads and targets male audiences with interests in photography, gaming, and sports. These interests are highly engaging, which explains the strong engagement and CTR. However, the age targeting may not fully align with purchasing behavior.   
-For instance, photography is targeted at the 18–24 age group, which may have lower purchasing power for expensive equipment, while gaming and sports are targeted at 35–44, which may be slightly older than the most active audience for these interests. This mismatch may explain the lower conversion performance.
+Campaign 12 primarily uses Facebook Story ads and focuses on male audiences with interests in photography, gaming, and sports. These interests naturally generate high engagement, which explains the strong interaction metrics.
 
-In comparison, Campaign 45 targets female audiences with interests in health, sports, gaming, and technology using both image and story formats across Instagram and Facebook. While this approach generates lower engagement, the higher conversion rate suggests that the product offering aligns well with the needs and preferences of this audience segment, leading to stronger purchase intent among users who interact with the campaign.
+However, the age targeting may not fully match purchasing behaviour. Photography is directed toward the 18–24 age group, which may have limited purchasing power for expensive equipment, while gaming and sports are targeted toward 35–44, which may be older than the most active segment for these interests. This mismatch likely reduces the campaign’s ability to convert engagement into purchases.
+
+In contrast, Campaign 45 focuses on female audiences with interests in health, sports, gaming, and technology, using both image and story formats across Instagram and Facebook. While this strategy generates slightly lower interaction, the higher conversion rate suggests stronger alignment between the ad messaging, product offering, and audience needs, leading to higher purchase intent among users who click the ads.
+
+
+**High vs Low Conversion Campaign Performance**
+
+Campaign 27 emerges as the most effective campaign in driving purchases, achieving a conversion rate of 9% and a purchase rate of 1%. These metrics indicate that a significant proportion of users who interact with the ads proceed to complete a purchase.
+
+In contrast, Campaign 36 shows the weakest conversion performance, with a conversion rate of only 2% and a purchase rate of 0.4%. This indicates that although the campaign may generate some level of interaction, it is far less effective at converting that interest into actual transactions
+
+* This pattern indicates that Campaign 27 is highly effective in driving purchases, while Campaign 36 struggles to convert audience engagement into actual sales.
+
+Drilldown Analysis: Factors Driving Conversion Differences
+
+Campaign 27 uses a mix of Carousel and Story ads while targeting female audiences with interests in travel, finance, fitness, and technology. These interests may align closely with the promoted product, while the use of Story ads — which often provide a more immersive and engaging viewing experience — may further support higher conversion rates.
+
+By contrast, Campaign 36 relies on Image and Carousel formats while targeting a broader audience, including all users and females with interests in fashion, sports, and food. While these categories can generate general engagement, the broader targeting and interest selection may not strongly reflect purchase intent, which likely contributes to the lower conversion and purchase rates observed for this campaign.
+
+      Campaign 27 → Targeted audience + high converting ad format → High conversion
+      
+      Campaign 36 → Broader targeting + lower converting formats → Low conversion
 
 
 ---
