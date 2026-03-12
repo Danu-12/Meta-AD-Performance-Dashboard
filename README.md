@@ -155,6 +155,60 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 ---
 ## Recommendations
 
+### 1. Optimize Audience Targeting to Improve Conversions
+
+   * Refine audience targeting for Campaign 12 to better align with high purchase-intent segments.    
+         -For photography-related interests, increase the target age group to 24–35, where purchasing power for equipment is typically stronger.     
+         -For gaming and sports interests, narrow the targeting to the 25–35 age group to focus on a more active and commercially responsive audience. 
+
+   * Additionally, improving the product offer or messaging to better match these audience segments can strengthen purchase intent, helping convert the campaign’s strong engagement and traffic into higher conversion rates and increased purchases.
+
+---
+
+#### 2. Allocate More Budget to High-Converting Campaigns
+
+   * Increase budget allocation toward high-converting campaigns such as Campaign 27 and Campaign 45 to maximize purchase outcomes. To further strengthen performance, prioritize Image and Video ad formats within these campaigns to leverage their higher engagement and CTR for driving traffic, while continuing to use Carousel and Story formats to maintain strong conversion performance. 
+   * This balanced format strategy can help attract more users into the funnel while preserving conversion efficiency, ultimately improving overall purchase volume and return on ad spend.
+
+---
+
+#### 3. Prioritize Story and Carousel Ad Formats for Conversions
+
+**Insight**  
+Story ads generate the highest impressions and conversion rates, while Carousel ads deliver the second-highest conversion performance.
+
+**Recommendation**  
+Increase the use of Story and Carousel formats in campaigns focused on driving purchases, while continuing to use Image and Video formats for awareness and engagement.
+
+**Expected Impact**  
+Leveraging high-performing ad formats can improve the efficiency of campaigns and enhance the likelihood of converting engaged users into buyers.
+
+---
+
+#### 4. Focus on High-Engagement Demographics
+
+**Insight**  
+Female users contribute approximately 64% of total engagement, and the 20–30 age group represents the most active audience segment.
+
+**Recommendation**  
+Design creatives and messaging that resonate with these highly engaged segments and consider prioritizing them in targeting strategies for engagement-focused campaigns.
+
+**Expected Impact**  
+Targeting the most responsive audiences can increase interaction rates and improve the effectiveness of marketing spend.
+
+---
+
+#### 5. Adjust Geographic Strategy Based on Market Behavior
+
+**Insight**  
+Countries such as the United States and the United Kingdom generate high engagement, while markets like Japan and Mexico show higher conversion rates.
+
+**Recommendation**  
+Use high-engagement markets to drive traffic and brand visibility while expanding campaigns in high-conversion markets to maximize sales potential.
+
+**Expected Impact**  
+A region-specific strategy can improve both traffic generation and revenue outcomes by leveraging the strengths of different markets.
+
 
 
 ---
