@@ -1,4 +1,4 @@
-# Meta Ads Performance Dashboard
+# Meta Ad Performance  Dashboard
 
 Running paid advertising campaigns on platforms like Facebook and Instagram has become increasingly competitive and expensive. Marketing teams must ensure that their ad spend reaches the right audience segments, drives meaningful engagement, and ultimately leads to conversions such as clicks, purchases, or sign-ups.
 
