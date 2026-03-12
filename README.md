@@ -198,29 +198,20 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 ---
 
-#### 4. Focus on High-Engagement Demographics
+### Target High-Engagement Demographics to Strengthen Campaign Performance
 
-**Insight**  
-Female users contribute approximately 64% of total engagement, and the 20–30 age group represents the most active audience segment.
-
-**Recommendation**  
-Design creatives and messaging that resonate with these highly engaged segments and consider prioritizing them in targeting strategies for engagement-focused campaigns.
-
-**Expected Impact**  
-Targeting the most responsive audiences can increase interaction rates and improve the effectiveness of marketing spend.
+   * Prioritize targeting younger audiences—particularly women aged 20–25—who represent the most responsive segment in terms of engagement. 
+   * Tailor ad creatives, messaging, and visual themes to resonate with this demographic by focusing on content that aligns with their interests, lifestyle, and consumption patterns.
+   * Concentrating campaign efforts on this highly engaged audience segment can amplify interaction levels, improve click-through performance, and increase the likelihood of moving users further down the marketing funnel toward conversions.
 
 ---
 
-#### 5. Adjust Geographic Strategy Based on Market Behavior
+### Adopt a Region-Specific Campaign Strategy
 
-**Insight**  
-Countries such as the United States and the United Kingdom generate high engagement, while markets like Japan and Mexico show higher conversion rates.
-
-**Recommendation**  
-Use high-engagement markets to drive traffic and brand visibility while expanding campaigns in high-conversion markets to maximize sales potential.
-
-**Expected Impact**  
-A region-specific strategy can improve both traffic generation and revenue outcomes by leveraging the strengths of different markets.
+   * Implement a region-specific optimization strategy based on market behavior.   
+      -In high-engagement markets such as the United States, the United Kingdom, and Canada, optimize campaigns for conversions by prioritizing Story and Carousel ad formats, strengthening product offers, and improving the landing page to turn strong traffic into purchases.   
+      -In high-conversion markets like Japan and Mexico, expand reach-focused campaigns using Image and Video formats to attract more users into the funnel.
+   * Aligning campaign objectives and ad formats with regional performance patterns can improve both conversion efficiency and traffic acquisition, ultimately increasing overall purchase volume and marketing return.
 
 
 
