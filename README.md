@@ -167,21 +167,34 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 #### 2. Allocate More Budget to High-Converting Campaigns
 
-   * Increase budget allocation toward high-converting campaigns such as Campaign 27 and Campaign 45 to maximize purchase outcomes. To further strengthen performance, prioritize Image and Video ad formats within these campaigns to leverage their higher engagement and CTR for driving traffic, while continuing to use Carousel and Story formats to maintain strong conversion performance. 
+   * Increase budget allocation toward high-converting campaigns such as Campaign 27 and Campaign 45 to maximize purchase outcomes.   
+      -To further strengthen performance, prioritize Image and Video ad formats within these campaigns to leverage their higher engagement and CTR for driving traffic, while continuing to use Carousel and Story formats to maintain strong conversion performance. 
    * This balanced format strategy can help attract more users into the funnel while preserving conversion efficiency, ultimately improving overall purchase volume and return on ad spend.
 
 ---
 
-#### 3. Prioritize Story and Carousel Ad Formats for Conversions
+### Align Ad Formats with the Marketing Funnel
 
-**Insight**  
-Story ads generate the highest impressions and conversion rates, while Carousel ads deliver the second-highest conversion performance.
+   * Adopt a funnel-based ad format strategy to improve campaign efficiency.   
+      -Use Image and Video formats in top-of-funnel campaigns to maximize engagement and CTR and attract new users.   
+      -In the middle of the funnel, leverage Carousel ads to highlight multiple product features and help users better understand the product offering.   
+      -For bottom-of-funnel campaigns focused on purchases, prioritize Story ads to drive quick actions through their immersive full-screen format.
+   * Aligning ad formats with the appropriate stage of the marketing funnel can strengthen user progression from awareness to purchase, ultimately improving conversion performance and increasing overall purchase volume.
 
-**Recommendation**  
-Increase the use of Story and Carousel formats in campaigns focused on driving purchases, while continuing to use Image and Video formats for awareness and engagement.
-
-**Expected Impact**  
-Leveraging high-performing ad formats can improve the efficiency of campaigns and enhance the likelihood of converting engaged users into buyers.
+           Marketing Funnel Strategy
+                 ↓
+         Top of Funnel (Awareness)
+         Images & Videos → strong engagement and high CTR → attract new users
+                 ↓
+         Middle of Funnel (Consideration)
+         Carousel → showcase multiple product features → improve product understanding
+                 ↓
+         Bottom of Funnel (Conversion)
+         Stories → immersive full-screen format → encourage quick purchase actions
+                 ↓
+         Right format at each funnel stage
+                 ↓
+         Higher campaign efficiency + more purchases
 
 ---
 
