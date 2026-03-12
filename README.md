@@ -155,7 +155,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 ---
 ## Recommendations
 
-### 1. Optimize Audience Targeting to Improve Conversions
+### Optimize Audience Targeting to Improve Conversions
 
    * Refine audience targeting for Campaign 12 to better align with high purchase-intent segments.    
          -For photography-related interests, increase the target age group to 24–35, where purchasing power for equipment is typically stronger.     
@@ -165,7 +165,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 ---
 
-#### 2. Allocate More Budget to High-Converting Campaigns
+#### Allocate More Budget to High-Converting Campaigns
 
    * Increase budget allocation toward high-converting campaigns such as Campaign 27 and Campaign 45 to maximize purchase outcomes.   
       -To further strengthen performance, prioritize Image and Video ad formats within these campaigns to leverage their higher engagement and CTR for driving traffic, while continuing to use Carousel and Story formats to maintain strong conversion performance. 
@@ -220,11 +220,17 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 The dashboard was built using the following tools and technologies:
 
-* 📊 **Power BI Desktop** – Main data visualization platform used for report creation
-* 📂 **Power Query** – Data transformation and cleaning layer for reshaping raw ad data
-* 🧠 **DAX (Data Analysis Expressions)** – Used for calculated KPIs such as engagement rate, CTR, and performance comparisons
-* 🧩 **Data Modeling** – Relationships built between campaign, audience, and performance tables for accurate filtering and aggregation
-* 📁 **File Formats** – `.pbix` for development and `.png` for dashboard previews
+
+| Tool / Technique | Purpose |
+|------------------|---------|
+| **Power BI Desktop** | Primary data visualization platform used to design and build the interactive dashboard. |
+| **Power Query** | Used for data cleaning, transformation, and reshaping raw advertising data before analysis. |
+| **DAX (Data Analysis Expressions)** | Created calculated KPIs such as Engagement Rate, CTR, Conversion Rate, and other performance metrics. |
+| **Data Modeling** | Built relationships between campaign, audience, and performance tables to enable accurate filtering and analysis. |
+| **Pivot Tables & Pivot Charts (Excel)** | Used for preliminary data exploration, aggregation, and storytelling during the early analysis phase. |
+| **Drill-Down Analysis** | Applied to explore campaign performance across multiple dimensions and uncover deeper behavioral patterns. |
+| **File Formats** | `.pbix` used for development and `.png` used for dashboard previews in the repository. |
+
 
 ---
 
