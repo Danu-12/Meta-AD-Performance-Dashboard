@@ -236,9 +236,6 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-
----
-
 ## Dashboard Preview
 
 ![Dashboard Preview](https://github.com/Danu-12/Meta-AD-Performance-Dashboard/blob/main/Meta%20AD%20Performance%20Dashboard.gif)
