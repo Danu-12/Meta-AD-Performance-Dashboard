@@ -57,7 +57,7 @@ By combining these metrics and dimensions into a structured performance view, th
 
 ![KPis](https://i.postimg.cc/HLMzY4fh/kpis.png)
 
-Campaign performance shows **strong top-of-funnel engagement**, with an **Engagement Rate of 17.07%** and a **CTR of 11.56%**, indicating ad creatives are highly effective at capturing user attention & driving clicks. The overall **Purchase Rate remains low at 0.61%** of impressions, revealing a drop-off in the lower stage of the conversion funnel. 
+Campaign performance shows **strong top-of-funnel engagement**, with an **Engagement Rate of 17.07%** and a **CTR of 11.56%**, indicating ad creatives are highly effective at capturing user attention & driving clicks. The overall **Purchase Rate remains low at 0.56%** of impressions, revealing a drop-off in the lower stage of the conversion funnel. 
 
 Audience behavior highlights **young adults (20–30 age group) as  most responsive segmen**t, with engagement declining noticeably among audiences aged 35 and above. **Female audiences consistently show higher engagement** than males, indicating stronger resonance with this demographic.
 
