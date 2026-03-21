@@ -1,4 +1,4 @@
-[![Gemini-Generated-Image-zyt9tzyt9tzyt9tz.png](https://i.postimg.cc/VLphZXnP/Gemini-Generated-Image-zyt9tzyt9tzyt9tz.png)](https://postimg.cc/kBNwB6TT)
+![Gemini-Generated-Image-zyt9tzyt9tzyt9tz.png](https://i.postimg.cc/VLphZXnP/Gemini-Generated-Image-zyt9tzyt9tzyt9tz.png)
 
 # Meta Ad Performance  Dashboard
 
@@ -92,7 +92,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
 
 * In contrast, Campaign 45 focuses on female audiences with interests in health, sports, gaming, and technology, using both image and story formats across Instagram and Facebook. While this strategy generates slightly lower interaction, the higher conversion rate suggests stronger alignment between the ad messaging, product offering, and audience needs, leading to higher purchase intent among users who click the ads.
 
-[![High-eng.png](https://i.postimg.cc/D0qv95jH/High-eng.png)](https://postimg.cc/2LSNvdf7)
+![High-eng.png](https://i.postimg.cc/D0qv95jH/High-eng.png)
 
 
 --- 
@@ -119,7 +119,7 @@ However, the age targeting may not fully match purchasing behaviour. Photography
         
         Campaign 36 → Broader targeting + lower converting formats → Low conversion
 
-[![high-cr.png](https://i.postimg.cc/qq8JPQbb/high-cr.png)](https://postimg.cc/V0kPM9cn)
+![high-cr.png](https://i.postimg.cc/qq8JPQbb/high-cr.png)
 
 ---
 ### Audience Insights
