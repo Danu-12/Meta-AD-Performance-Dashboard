@@ -82,20 +82,20 @@ Different advertisement formats perform well at different stages of the customer
 ### Engagement & CTR Performance
 
 **Key Findings**
-  * Campaign 12 stands out as the strongest traffic driver, achieving the highest engagement (18%) and CTR (13%) among all campaigns. This shows that the creatives and targeting are effective in attracting user attention and encouraging clicks. However,despite generating strong interaction, the campaign delivers a modest conversion rate of 3%, suggesting high engagemnt is not converting into purchases.
+  * Campaign 12 attracts the most user attention, achieving the highest Engagement Rate (18%) and Click-Through Rate (CTR) (13%) among all campaigns. This indicates that its advertisement design and audience targeting are highly effective at encouraging users to interact with and click on the ads. However, despite generating strong engagement, the campaign achieves a relatively modest Conversion Rate of 3%, suggesting that many users interact with the ads but fewer complete a purchase.
     
-  * In contrast, Campaign 45 shows lower engagement and CTR (16% and 11%) but achieves a higher conversion rate of 5%, suggesting that although fewer users interact with the ads, those who do are more likely to complete a purchase.
+  * In contrast, Campaign 45 generates slightly lower engagement and CTR (16% and 11%, respectively) but achieves a higher Conversion Rate of 5%. This suggests that although fewer users interact with the ads, those who do are more likely to complete a purchase.
     
-* This indicates that Campaign 12 is effective at driving engagement and traffic, while Campaign 45 performs better in converting interested users into buyers.
+* Overall, Campaign 12 performs better at attracting attention and generating clicks, while Campaign 45 is more effective at converting interested users into buyers.
 
 ---
 **Drilldown Analysis: Factors Driving Campaign Performance**
 
-  * Campaign 12 primarily uses Facebook Story ads and focuses on male audiences with interests in photography, gaming, and sports. These interests naturally generate high engagement, which explains the strong interaction metrics.
+  * Campaign 12 primarily uses Facebook Story ads and targets **male audiences** interested in **photography, gaming, and sports**. These topics naturally attract high user interaction, helping the campaign achieve strong engagement and click-through rates.
 
-However, the age targeting may not fully match purchasing behaviour. Photography is directed toward the 18–24 age group, which may have limited purchasing power for expensive equipment, while gaming and sports are targeted toward 35–44, which may be older than the most active segment for these interests. This mismatch likely reduces the campaign’s ability to convert engagement into purchases.
+However, the audience targeting may not fully match the users most likely to make a purchase. For example, photography-related ads target users aged **18–24**, who may have less disposable income to purchase expensive photography equipment. Similarly, gaming and sports ads target users aged**35–44**, who may not be the most active audience for these interests. This mismatch between the target audience and potential buyers likely reduces the campaign's ability to convert engagement into purchases.
 
-* In contrast, Campaign 45 focuses on female audiences with interests in health, sports, gaming, and technology, using both image and story formats across Instagram and Facebook. While this strategy generates slightly lower interaction, the higher conversion rate suggests stronger alignment between the ad messaging, product offering, and audience needs, leading to higher purchase intent among users who click the ads.
+* In contrast, Campaign 45 targets **female audiences** interested in**health, sports, gaming, and technology** using a combination of **Image** and **Story** ad formats across Facebook and Instagram. Although this campaign generates slightly fewer interactions, its higher conversion rate suggests that the audience, product offering, and advertising message are a better match. As a result, users who click on these ads are more likely to complete a purchase.
 
 ![High-eng.png](https://i.postimg.cc/D0qv95jH/High-eng.png)
 
